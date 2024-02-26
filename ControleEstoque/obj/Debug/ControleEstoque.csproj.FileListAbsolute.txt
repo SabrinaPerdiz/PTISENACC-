@@ -1,0 +1,7 @@
+D:\Docs\Senac\PTI Algoritmo C#\ControleEstoque\ControleEstoque\bin\Debug\ControleEstoque.exe.config
+D:\Docs\Senac\PTI Algoritmo C#\ControleEstoque\ControleEstoque\bin\Debug\ControleEstoque.exe
+D:\Docs\Senac\PTI Algoritmo C#\ControleEstoque\ControleEstoque\bin\Debug\ControleEstoque.pdb
+D:\Docs\Senac\PTI Algoritmo C#\ControleEstoque\ControleEstoque\obj\Debug\ControleEstoque.csproj.AssemblyReference.cache
+D:\Docs\Senac\PTI Algoritmo C#\ControleEstoque\ControleEstoque\obj\Debug\ControleEstoque.csproj.CoreCompileInputs.cache
+D:\Docs\Senac\PTI Algoritmo C#\ControleEstoque\ControleEstoque\obj\Debug\ControleEstoque.exe
+D:\Docs\Senac\PTI Algoritmo C#\ControleEstoque\ControleEstoque\obj\Debug\ControleEstoque.pdb
